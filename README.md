@@ -1,4 +1,4 @@
-# FlappySonic Ansible role
+# NightCityRide Ansible role
 
 ## This is a WIP
 
