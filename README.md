@@ -11,7 +11,7 @@ collections:
   - community.docker
 
 roles:
-  - src: https://github.com/namelivia/namelivia.nightcityride
+  - src: https://github.com/namelivia/ansible-nightcityride
 ```
 
 ## Required variables
