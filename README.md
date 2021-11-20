@@ -1,4 +1,4 @@
-# NightCityRide Ansible role
+# NightCityRide Ansible role [![Ansible Lint](https://github.com/namelivia/ansible-nightcityride/actions/workflows/ansible-lint.yml/badge.svg)](https://github.com/namelivia/ansible-nightcityride/actions/workflows/ansible-lint.yml)
 
 ## This is a WIP
 
